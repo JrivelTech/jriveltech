@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy jrivel
+# 👋 ¡Hola! Soy JrivelTech
 
 Bienvenido a mi espacio técnico.  
 Me dedico a la recuperación de sistemas embebidos, automatización doméstica, y rediseño de infraestructuras IoT. Mi pasión: dar nueva vida a hardware olvidado, documentarlo y compartirlo con el mundo.
